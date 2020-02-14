@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Documents/Java/Spring Data/Java DB Apps Introduction/minions_db.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/assignments/AssignmentEightIncreaseMinionsAge.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/assignments/AssignmentFiveChangeTownNamesCasing.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/assignments/AssignmentFourAddMinion.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/assignments/AssignmentSixRemoveVillain.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/assignments/AssignmentThreeGetMinionNames.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/assignments/AssignmentTwoGetVillainsNames.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/resources/minions_db.sql" dialect="MySQL" />
+  </component>
+</project>
